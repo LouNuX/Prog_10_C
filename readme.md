@@ -7,11 +7,11 @@
 
 1-Introduction en **C** :
 
+-Suite fibonacci | Introduction
+
 -Gestion de la fonction **atoi()**
 
 -Gestion de la fonction **putchar()**
-
--Suite fibonacci | Introduction
 
 -Gestion d'allocation de mémoire avec la fonction **malloc** + utilisation de la focntion **dup**
 
