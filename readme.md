@@ -1,5 +1,5 @@
 ##  Projet N°10 | Programmation au C
-*Intervant:* **Aymeric Guillochet**
+*Intervenant:* **Aymeric Guillochet**
 
 *Date de projet:*  27/02 au 03/03
 
