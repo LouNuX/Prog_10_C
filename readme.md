@@ -4,7 +4,9 @@
 *Date de projet:*  27/02 au 03/03
 
 ### Individuel
+
 1-Introduction en **C** :
+
 -Gestion de la fonction **atoi()**
 
 -Gestion de la fonction **putchar()**
