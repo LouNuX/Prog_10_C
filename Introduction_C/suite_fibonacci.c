@@ -2,8 +2,8 @@
 
 int fibonacci(int max_fib){
     int ret_fib;
-    int f0=0;
-    int f1=1;
+    int f0=0; //declaration de la 1ère variable
+    int f1=1; //declaration de 2nd variable
     
     while(max_fib > 1){
         ret_fib=f0+f1;
