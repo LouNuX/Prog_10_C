@@ -1,0 +1,11 @@
+function declare_lst_nex(nbr)
+    declare *lst_ret
+    lst_ret=(type_lst *)malloc(sizeof(lst_ret))
+    lst_ret->nbr =nbr
+    lst_ret->next= NULL
+    ret lst_ret
+
+function looping(*lst, *lst_new)
+
+function main
+    declare 
