@@ -1,0 +1,13 @@
+012345678
+145867057
+023651458
+102354848
+599620654
+741615848
+156848155
+554988755
+052588999
+
+//lire fichier et prendre argument de la fonction
+//stocker dans un pointeur
+//déclarer grâce aux malloc
